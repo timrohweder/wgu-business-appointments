@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:14:42</date>
+  <millis>1582204482170</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:14:42.170 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:16:10</date>
+  <millis>1582204570273</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:16:10.272 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:16:23</date>
+  <millis>1582204583856</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:16:23.856 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:43:14</date>
+  <millis>1582206194016</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:43:14.016 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:47:31</date>
+  <millis>1582206451232</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:47:31.232 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T05:57:38</date>
+  <millis>1582207058744</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T05:57:38.743 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T06:04:19</date>
+  <millis>1582207459521</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T06:04:19.516 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T09:07:33</date>
+  <millis>1582207653304</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T09:07:33.304 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:27:32</date>
+  <millis>1582212452866</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:27:32.866 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:28:24</date>
+  <millis>1582212504887</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:28:24.886 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:46:34</date>
+  <millis>1582213594609</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:46:34.609 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:49:32</date>
+  <millis>1582213772169</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:49:32.168 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:51:15</date>
+  <millis>1582213875531</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:51:15.531 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:54:03</date>
+  <millis>1582214043356</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:54:03.356 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:13:48</date>
+  <millis>1582222428092</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:13:48.092 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:21:23</date>
+  <millis>1582222883174</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:21:23.174 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:45:17</date>
+  <millis>1582224317722</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:45:17.721 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:53:00</date>
+  <millis>1582224780414</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:53:00.413 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T10:54:13</date>
+  <millis>1582224853827</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T10:54:13.826 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T14:32:03</date>
+  <millis>1582227123202</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T14:32:03.201 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:33:08</date>
+  <millis>1582227188686</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:33:08.685 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:37:29</date>
+  <millis>1582227449555</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:37:29.554 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:41:19</date>
+  <millis>1582227679584</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:41:19.584 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:42:59</date>
+  <millis>1582227779423</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:42:59.423 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:44:53</date>
+  <millis>1582227893443</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:44:53.443 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:49:01</date>
+  <millis>1582228141044</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:49:01.044 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T11:49:50</date>
+  <millis>1582228190822</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T11:49:50.822 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T12:46:43</date>
+  <millis>1582231603251</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T12:46:43.250 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T12:48:03</date>
+  <millis>1582231683809</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T12:48:03.808 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:04:26</date>
+  <millis>1582232666924</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:04:26.924 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:19:06</date>
+  <millis>1582233546623</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:19:06.623 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:22:43</date>
+  <millis>1582233763889</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:22:43.889 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:37:07</date>
+  <millis>1582234627638</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:37:07.638 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:39:06</date>
+  <millis>1582234746936</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:39:06.935 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:40:26</date>
+  <millis>1582234826293</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:40:26.293 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:43:11</date>
+  <millis>1582234991723</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:43:11.723 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:53:26</date>
+  <millis>1582235606462</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:53:26.462 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:54:38</date>
+  <millis>1582235678234</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:54:38.233 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-20T13:55:36</date>
+  <millis>1582235736001</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-20T13:55:36 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T05:29:45</date>
+  <millis>1582291785793</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T05:29:45.792 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T05:30:47</date>
+  <millis>1582291847940</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T05:30:47.940 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T05:33:18</date>
+  <millis>1582291998925</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T05:33:18.924 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:16:07</date>
+  <millis>1582294567322</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:16:07.321 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:20:31</date>
+  <millis>1582294831929</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:20:31.920 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:27:14</date>
+  <millis>1582295234473</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:27:14.473 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:36:01</date>
+  <millis>1582295761954</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:36:01.954 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:36:56</date>
+  <millis>1582295816624</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:36:56.624 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:39:05</date>
+  <millis>1582295945331</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:39:05.331 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:42:01</date>
+  <millis>1582296121844</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:42:01.843 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:43:08</date>
+  <millis>1582296188986</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:43:08.985 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:45:33</date>
+  <millis>1582296333215</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:45:33.214 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T06:48:56</date>
+  <millis>1582296536241</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T06:48:56.240 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T07:52:45</date>
+  <millis>1582300365222</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T07:52:45.221 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:23:55</date>
+  <millis>1582302235952</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:23:55.951 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:28:53</date>
+  <millis>1582302533053</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:28:53.052 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:29:44</date>
+  <millis>1582302584640</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:29:44.640 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:36:02</date>
+  <millis>1582302962004</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:36:02.004 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:36:36</date>
+  <millis>1582302996957</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:36:36.957 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:40:43</date>
+  <millis>1582303243448</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:40:43.439 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:43:51</date>
+  <millis>1582303431003</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:43:50.994 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:50:22</date>
+  <millis>1582303822293</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:50:22.293 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:51:45</date>
+  <millis>1582303905018</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:51:45.017 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:53:15</date>
+  <millis>1582303995560</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:53:15.560 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T08:56:32</date>
+  <millis>1582304192927</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T08:56:32.927 by test</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T11:58:19</date>
+  <millis>1582304299452</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T11:58:19.451 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T12:06:18</date>
+  <millis>1582304778040</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T12:06:18.039 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-21T12:13:38</date>
+  <millis>1582305218244</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-21T12:13:38.244 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-22T06:00:30</date>
+  <millis>1582380030211</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-22T06:00:30.211 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-22T06:08:16</date>
+  <millis>1582380496000</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-22T06:08:16 by test</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-02-22T06:11:53</date>
+  <millis>1582380713636</millis>
+  <sequence>0</sequence>
+  <logger>LoginLog</logger>
+  <level>INFO</level>
+  <class>View_Controller.LoginViewController</class>
+  <method>logLogin</method>
+  <thread>12</thread>
+  <message>Login at 2020-02-22T06:11:53.635 by test</message>
+</record>
